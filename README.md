@@ -15,15 +15,17 @@ The studio codebase is private. This page shows the work and explains how it is 
 
 ## Featured film — *Partnership*
 
-<a href="https://cdn.jsdelivr.net/gh/Claytonee/Motion-Design-VFX-Showcase@main/media/Partnership_v010B.mp4"><img src="https://cdn.jsdelivr.net/gh/Claytonee/Motion-Design-VFX-Showcase@main/assets/partnership-preview.webp" alt="Partnership: highlights from the 70-second film" width="300" align="right"/></a>
-
 A 70-second vertical film that asks owners of school networks, NGOs and government to bring their schools into Opportunity Education's learner-centred model.
 
 It opens on a moment everyone remembers from school. A teacher asks Memphis to state Archimedes' principle. She recites it by heart, stalls on *"…upthrust…"*, and the word comes back once more, quieter, until the room goes silent. Nobody says "rote learning". The sound says it.
 
 Then the same classroom, from the same camera, turns learner-centred on a single frame. Music drop, taiko hit and light wipe land together at 20.45 s.
 
-**[▶ Watch the full film (MP4, 70 s, sound on)](https://cdn.jsdelivr.net/gh/Claytonee/Motion-Design-VFX-Showcase@main/media/Partnership_v010B.mp4)** · [file in this repo](media/Partnership_v010B.mp4)
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/229762b9-d485-41e5-aeb3-b5e59d2009b9" width="360" controls muted playsinline></video>
+</p>
+
+<p align="center"><sub>Press play, then unmute: full 70-second film in Full HD (1080 × 1920) with its original sound. Also available as a <a href="media/Partnership_v010B.mp4">file in this repo</a>.</sub></p>
 
 | | |
 |---|---|
@@ -32,8 +34,6 @@ Then the same classroom, from the same camera, turns learner-centred on a single
 | Voices | 3 hook lines + 13 narration lines, every on-screen event timed to word timestamps |
 | Sound | 34 timed effects, all real recordings, plus one music edit cut so its drop hits the turn |
 | Status | Approved, 10 October 2026 |
-
-<br clear="right"/>
 
 <img src="https://cdn.jsdelivr.net/gh/Claytonee/Motion-Design-VFX-Showcase@main/assets/partnership-frames.jpg" alt="Six frames from Partnership: the question, the fading echo, the turn, a skill, the ripple map, the ask" width="100%"/>
 
