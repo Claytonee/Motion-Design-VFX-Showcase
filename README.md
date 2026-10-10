@@ -25,7 +25,7 @@ Then the same classroom, from the same camera, turns learner-centred on a single
   <video src="https://github.com/user-attachments/assets/229762b9-d485-41e5-aeb3-b5e59d2009b9" width="360" controls playsinline></video>
 </p>
 
-<p align="center"><sub>Press play: the full 70-second film in Full HD (1080 × 1920) with its original sound. Also available as a <a href="media/Partnership_v010B.mp4">file in this repo</a>.</sub></p>
+<p align="center"><sub>Press play and tap the speaker icon for sound: the full 70-second film in Full HD (1080 × 1920) with its original sound. Also available as a <a href="media/Partnership_v010B.mp4">file in this repo</a>.</sub></p>
 
 | | |
 |---|---|
