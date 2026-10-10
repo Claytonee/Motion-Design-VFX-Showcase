@@ -22,10 +22,10 @@ It opens on a moment everyone remembers from school. A teacher asks Memphis to s
 Then the same classroom, from the same camera, turns learner-centred on a single frame. Music drop, taiko hit and light wipe land together at 20.45 s.
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/229762b9-d485-41e5-aeb3-b5e59d2009b9" width="360" controls playsinline></video>
+  <video src="https://github.com/user-attachments/assets/26505516-c776-406b-a766-ea278ff6edbb" width="360" controls playsinline></video>
 </p>
 
-<p align="center"><sub>Press play and tap the speaker icon for sound: the full 70-second film in Full HD (1080 × 1920) with its original sound. Also available as a <a href="media/Partnership_v010B.mp4">file in this repo</a>.</sub></p>
+<p align="center"><sub>Press play and tap the speaker icon for sound: the full 70-second film in Full HD with its original sound. Also available as a <a href="media/Partnership_v010B.mp4">file in this repo</a>.</sub></p>
 
 | | |
 |---|---|
